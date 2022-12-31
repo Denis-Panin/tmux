@@ -1,0 +1,2 @@
+1. clon repo in home directory
+2. ln -s -f .tmux/.tmux.conf
